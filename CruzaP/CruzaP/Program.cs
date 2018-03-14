@@ -10,6 +10,7 @@ namespace CruzaP
     {
         static void Main(string[] args)
         {
+            sishufhd;
         }
     }
 }
